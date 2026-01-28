@@ -1,0 +1,156 @@
+icon
+{
+  "company": "SpotDraft",
+  "category": "Contract Lifecycle Management (CLM)",
+  "tagline": "One platform for every contract",
+  "description": "SpotDraft is an AI-powered contract lifecycle management solution that scales with your business and gives you control of your contracting process from Day One.",
+  "website": "https://spotdraft.com",
+  "demo_url": "https://spotdraft.com/requestfordemo",
+  "ideal_customer_profile": {
+    "company_size": [
+      "500-2000 employees (sweet spot)",
+      "50-500 employees",
+      "2000+ employees"
+    ],
+    "ideal_industries": [
+      "Technology & SaaS",
+      "Financial Services",
+      "FinTech",
+      "Healthcare & Life Sciences",
+      "Professional Services",
+      "Manufacturing"
+    ],
+    "decision_makers": [
+      "General Counsel",
+      "VP Legal",
+      "Legal Operations Manager",
+      "Head of Legal Operations"
+      "In-House Legal Counsel"
+    ],
+    "pain_points": [
+      "Legal team overwhelmed with contract volume",
+      "Business teams blocked waiting on Legal",
+      "No visibility into contract status",
+      "Manual review is slow and error-prone",
+      "Missing renewal deadlines"
+      "No single source of truth for contracts"
+    ]
+  },
+  "key_capabilities": [
+    {
+      "name": "Self-Service Contracting",
+      "description": "Business teams create standard contracts without waiting on Legal",
+      "proof": "18,000 → 85,000 contracts managed without adding headcount"
+    },
+    {
+      "name": "AI-Assisted Review",
+      "description": "AI reviews against your playbooks in native Microsoft Word",
+      "proof": "150 hours saved per year with AI playbook review"
+    },
+    {
+      "name": "Intelligent Repository",
+      "description": "Natural language search with custom AI metadata extraction",
+      "proof": "Track 1000+ types of contract metadata in a single source of contracting truth"
+    },
+    {
+      "name": "Data-Driven Insights",
+      "description": "30+ process metrics across the entire contract lifecycle",
+      "proof": "80% faster turnaround time"
+    },
+    {
+      "name": "Centralized Intake",
+      "description": "One place for all legal requests with full visibility",
+      "proof": "Centralized Legal intake platforms"
+    }
+  ],
+  "differentiators": [
+    "Native Microsoft Word integration (not a Word-like editor)",
+    "Native Salesforce integration (zero context-switching)",
+    "Custom AI metadata extraction (1000+ programmable fields)",
+    "3-8 week implementation (not 6+ months)",
+    "Volume-based pricing (50-70% savings vs seat-based)"
+    "Dedicated customer success manager & 24/7 support"
+  ],
+  "proven_results": [
+    {
+      "metric": "3x contract volume",
+      "detail": "Without adding headcount"
+    },
+    {
+      "metric": "80% faster turnaround",
+      "detail": "Weeks to days"
+    },
+    {
+      "metric": "150 hours saved/year",
+      "detail": "With AI playbook review"
+    },
+    {
+      "metric": "45 min saved per contract",
+      "detail": "Automated redlining"
+    },
+    {
+      "metric": "3 weeks to deploy",
+      "detail": "Not 6+ months"
+    }
+  ],
+  "integrations": {
+    "crm": [
+      "Salesforce",
+      "HubSpot",
+      "Microsoft Dynamics"
+    ],
+    "productivity": [
+      "Microsoft Word",
+      "Gmail",
+      "Slack",
+      "Teams"
+    ],
+    "finance": [
+      "NetSuite",
+      "Coupa"
+    ],
+    "storage": [
+      "Google Drive",
+      "SharePoint",
+      "OneDrive"
+    ],
+    "esignature": [
+      "Native",
+      "DocuSign"
+    ]
+  },
+  "security": [
+    "SOC 2 Type II",
+    "ISO 27001",
+    "GDPR",
+    "HIPAA"
+  ],
+  "implementation": {
+    "timeline": "3-8 weeks",
+    "includes": [
+      "Integration setup",
+      "Contract migration",
+      "Template creation",
+      "Unlimited training",
+      "24/7 support"
+    ],
+    "no_requirement_for": [
+      "Third-party consultants",
+      "Dedicated legal ops team"
+    ]
+  },
+  "faq": [
+    {
+      "q": "How long does implementation take?",
+      "a": "3-8 weeks from contract signature to full team adoption."
+    },
+    {
+      "q": "Do I need a legal ops team?",
+      "a": "No. Self-service tools and included support mean no technical expertise needed."
+    },
+    {
+      "q": "How is AI used?",
+      "a": "Metadata extraction, playbook review, language suggestions, obligation tracking, risk flagging, routing recommendations."
+    }
+  ]
+}
