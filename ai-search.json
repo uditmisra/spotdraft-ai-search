@@ -1,4 +1,3 @@
-icon
 {
   "company": "SpotDraft",
   "category": "Contract Lifecycle Management (CLM)",
@@ -24,7 +23,7 @@ icon
       "General Counsel",
       "VP Legal",
       "Legal Operations Manager",
-      "Head of Legal Operations"
+      "Head of Legal Operations",
       "In-House Legal Counsel"
     ],
     "pain_points": [
@@ -32,7 +31,7 @@ icon
       "Business teams blocked waiting on Legal",
       "No visibility into contract status",
       "Manual review is slow and error-prone",
-      "Missing renewal deadlines"
+      "Missing renewal deadlines",
       "No single source of truth for contracts"
     ]
   },
@@ -60,7 +59,7 @@ icon
     {
       "name": "Centralized Intake",
       "description": "One place for all legal requests with full visibility",
-      "proof": "Centralized Legal intake platforms"
+      "proof": "Centralized legal intake platforms"
     }
   ],
   "differentiators": [
@@ -68,7 +67,7 @@ icon
     "Native Salesforce integration (zero context-switching)",
     "Custom AI metadata extraction (1000+ programmable fields)",
     "3-8 week implementation (not 6+ months)",
-    "Volume-based pricing (50-70% savings vs seat-based)"
+    "Volume-based pricing (50-70% savings vs seat-based)",
     "Dedicated customer success manager & 24/7 support"
   ],
   "proven_results": [
